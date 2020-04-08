@@ -10,7 +10,7 @@ val catsEffectTestingV = "0.4.0"
 val log4catsV = "1.0.1"
 val logbackClassicV = "1.2.3"
 
-val specs2V = "4.9.2"
+val specs2V = "4.9.3"
 
 val kindProjectorV = "0.11.0"
 val betterMonadicForV = "0.3.1"
