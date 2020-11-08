@@ -6,7 +6,7 @@ val catsEffectV = "2.1.2"
 val fs2V = "2.2.2"
 val http4sV = "0.21.1"
 val circeV = "0.13.0"
-val catsEffectTestingV = "0.4.0"
+val catsEffectTestingV = "0.4.2"
 val log4catsV = "1.0.1"
 val logbackClassicV = "1.2.3"
 
