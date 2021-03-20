@@ -12,7 +12,7 @@ val logbackClassicV = "1.2.3"
 
 val specs2V = "4.9.2"
 
-val kindProjectorV = "0.11.0"
+val kindProjectorV = "0.11.3"
 val betterMonadicForV = "0.3.1"
 
 lazy val `github` = project.in(file("."))
