@@ -58,7 +58,7 @@ lazy val contributors = Seq(
 lazy val commonSettings = Seq(
   organization := "io.chrisdavenport",
 
-  scalaVersion := "2.13.1",
+  scalaVersion := "2.13.6",
   crossScalaVersions := Seq(scalaVersion.value, "2.12.10"),
   ThisBuild / turbo := true,
   Global / cancelable := true,
