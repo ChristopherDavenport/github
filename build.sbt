@@ -3,7 +3,7 @@ import sbtcrossproject.CrossPlugin.autoImport.{crossProject, CrossType}
 
 val catsV = "2.1.1"
 val catsEffectV = "2.1.2"
-val fs2V = "2.2.2"
+val fs2V = "2.5.9"
 val http4sV = "0.21.1"
 val circeV = "0.13.0"
 val catsEffectTestingV = "0.4.0"
